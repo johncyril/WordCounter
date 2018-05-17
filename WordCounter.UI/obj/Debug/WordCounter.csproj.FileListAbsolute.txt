@@ -1,0 +1,15 @@
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\MainWindow.baml
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\MainWindow.g.cs
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\App.g.cs
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\WordCounter_MarkupCompile.cache
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\WordCounter.g.resources
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\WordCounter.Properties.Resources.resources
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.GenerateResource.Cache
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\MainView.baml
+C:\Users\John\Documents\GitHub\WordCounter\WordCounter\obj\Debug\MainView.g.cs

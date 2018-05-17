@@ -1,0 +1,17 @@
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\bin\Debug\WordCounter.UI.exe.config
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\WordCounter.UI.csprojResolveAssemblyReference.cache
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\MainView.baml
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\MainWindow.baml
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\MainView.g.cs
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\MainWindow.g.cs
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\App.g.cs
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\WordCounter.UI_MarkupCompile.cache
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\WordCounter.UI.g.resources
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\WordCounter.UI.Properties.Resources.resources
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\WordCounter.UI.csproj.GenerateResource.Cache
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\bin\Debug\WordCounter.UI.exe
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\bin\Debug\WordCounter.UI.pdb
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\bin\Debug\WordCounter.dll
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\bin\Debug\WordCounter.pdb
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\WordCounter.UI.exe
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.UI\obj\Debug\WordCounter.UI.pdb

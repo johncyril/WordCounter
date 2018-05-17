@@ -1,0 +1,5 @@
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter\bin\Debug\WordCounter.dll
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter\obj\Debug\WordCounter.dll
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter\obj\Debug\WordCounter.pdb

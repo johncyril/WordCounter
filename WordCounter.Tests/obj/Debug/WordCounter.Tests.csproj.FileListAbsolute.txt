@@ -1,0 +1,21 @@
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\UnitTestProject1\bin\Debug\apostrophes.txt
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\UnitTestProject1\bin\Debug\harry potter page one.txt
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\UnitTestProject1\bin\Debug\SpecificationTest.txt
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\UnitTestProject1\bin\Debug\WordCounter.Tests.dll
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\UnitTestProject1\bin\Debug\WordCounter.Tests.pdb
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\UnitTestProject1\bin\Debug\WordCounter.dll
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\UnitTestProject1\bin\Debug\WordCounter.pdb
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\UnitTestProject1\obj\Debug\WordCounter.Tests.csprojResolveAssemblyReference.cache
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\UnitTestProject1\obj\Debug\WordCounter.Tests.dll
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\UnitTestProject1\obj\Debug\WordCounter.Tests.pdb
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.Tests\bin\Debug\apostrophes.txt
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.Tests\bin\Debug\harry potter page one.txt
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.Tests\bin\Debug\SpecificationTest.txt
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.Tests\bin\Debug\WordCounter.Tests.dll
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.Tests\bin\Debug\WordCounter.Tests.pdb
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.Tests\bin\Debug\WordCounter.dll
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.Tests\bin\Debug\WordCounter.pdb
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.Tests\obj\Debug\WordCounter.Tests.csprojResolveAssemblyReference.cache
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.Tests\obj\Debug\WordCounter.Tests.dll
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.Tests\obj\Debug\WordCounter.Tests.pdb
+C:\Users\John\ownCloud\Code\GitHub\WordCounter\WordCounter.Tests\bin\Debug\HarryPotterResultToCompare.txt
